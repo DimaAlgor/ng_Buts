@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    background-color: rgb(182, 168, 143);
+    height: 120px;
+}
+
+nav a {
+    text-decoration: none;
+    border: snow 2px solid;
+    border-radius: 30%;
+    margin: 30px;
+    padding: 10px;
+    color: black;
+}
+
+main h1 {
+    text-align: center;
+}
+
+.one {
+    font-size: 30px;
+}
+
+main p {
+    text-align: center;
+} 
+
+main {
+    background-color: lightblue;
+    text-align: center;
+}
+
